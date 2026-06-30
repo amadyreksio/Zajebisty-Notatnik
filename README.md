@@ -11,3 +11,9 @@ I made it for personal use but you can use it if you want idc.
 
 
 If you're wondering why the design looks like it was shat out by an elephant or smth it's because I've been REALLY limited by windows forms.
+
+
+## Screenshots
+<img width="794" height="475" alt="image" src="https://github.com/user-attachments/assets/fba4fb5b-a442-4a36-92dd-d3933bba4740" />
+<img width="792" height="477" alt="image" src="https://github.com/user-attachments/assets/722aed54-6c2b-4678-b66d-c5bc91f6f546" />
+<img width="403" height="272" alt="image" src="https://github.com/user-attachments/assets/1486580e-5f37-4609-9ba8-17f4cbb3adb1" />
